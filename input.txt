@@ -1,0 +1,11 @@
+#first input
+Enter the number of employees : 4
+
+#second input
+Enter the number of employees : 2
+
+#third input
+Enter the number of employees : 3
+
+#fourth input
+Enter the number of employees : 8 
